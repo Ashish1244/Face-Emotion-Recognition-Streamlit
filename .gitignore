@@ -1,0 +1,6 @@
+ENV/
+dataset/ENV/
+*.zip
+dataset/train/
+dataset/test/
+.DS_Store
